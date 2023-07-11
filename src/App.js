@@ -1,6 +1,7 @@
-import Header from "./Header";
+import Header from "./Header"
 import Content from "./Content";
-import Footers from "./Footers";
+import Footer from "./Footer"
+import React from "react";
 
 
 
@@ -12,7 +13,7 @@ function App() {
 
       <Header />
       <Content />
-      <Footers />
+      <Footer />
 
 
     </div>
